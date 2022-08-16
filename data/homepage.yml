@@ -5,9 +5,9 @@ homepage:
 # showcase
 showcase:
   enable: true
-  title: "Dapatkan solusi dalam tentukan keputusan bisnis anda"
+  title: "Dapatkan solusi dalam menentukan keputusan bisnis Anda."
   subtitle: "___________"
-  description: "Kami membantu perusahaan untuk dapatkan wawasan yang lebih luas melalui big data media sosial dan media online. Butuh penasihat untuk tim komunikasi anda?"
+  description: "Kami membantu perusahaan untuk mendapatkan wawasan yang lebih luas melalui big data media sosial dan media online. Butuh penasihat untuk tim komunikasi Anda ?"
   image:
     alt: "Showcase keyboard and mouse image"
     # x: "img/showcase/landing-image.png"
@@ -66,8 +66,8 @@ about:
 # what we do
 what_we_do:
   enable: true
-  title: "Apa Yang Kami Kerjakan?"
-  description: "Memahami naik turunnya REPUTASI anda <br/> sangatlah penting untuk:"
+  title: "Apa yang Kami Kerjakan?"
+  description: "Memahami naik turunnya REPUTASI Anda sangatlah penting untuk :"
   image:
     src: 'img/what-we-do/card-image.png'
     alt: 'image'
@@ -191,7 +191,7 @@ contact:
     message: "Ketik pesan anda disini"
   phone:
     title: "Telepon"
-    number: "0823-4141-0665"
+    number: " 021-72742894"
   email:
     title: "Surel"
     email: '<a href="mailto:info.astramaya.id">info.astramaya.id</a>'
